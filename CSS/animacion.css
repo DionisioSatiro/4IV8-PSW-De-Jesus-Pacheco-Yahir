@@ -99,6 +99,7 @@ alternar y transformar
     border-top: 16px solid rgb(216, 138, 21);
     border-bottom: 16px solid rgb(218, 240, 23);
     border-radius: 50%;
+
     animation: girar 2s case-in-out infinite;
 
 }
