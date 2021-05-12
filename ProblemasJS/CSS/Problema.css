@@ -1,0 +1,65 @@
+*{
+
+    align-items: center;
+
+}
+
+header{
+
+    align-items: center;
+    font-size: 2rem;
+    padding: 2rem;
+    background-color: rgb(157, 255, 0);
+
+}
+
+header a{
+    text-decoration-line: none;
+}
+
+header a:hover{
+    color: aliceblue;
+    background-color: rgb(12, 136, 18);
+}
+
+.Hipervinculo{
+
+    background-color: rgb(0, 247, 255);
+
+}
+
+.Hipervinculo a{
+    text-decoration-line: none;
+}
+
+body{
+
+    background-color: black;
+
+}
+
+main{
+
+    padding: 4rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+
+}
+
+.Titulo{
+
+    text-align: center;
+    border-radius: 1rem;
+    font-size: 3rem;
+    background-color: white;
+
+}
+
+.Problema{
+
+    text-align: center;
+    border-radius: 1rem;
+    background-color: white;
+    padding: 2rem;
+
+}

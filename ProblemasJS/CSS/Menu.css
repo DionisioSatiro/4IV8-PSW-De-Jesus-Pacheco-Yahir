@@ -1,0 +1,59 @@
+*{
+
+    align-items: center;
+
+}
+
+header{
+
+    align-items: center;
+    font-size: 2rem;
+    padding: 2rem;
+    background-color: rgb(157, 255, 0);
+
+}
+
+header a{
+    text-decoration-line: none;
+}
+
+.Hipervinculo{
+
+    background-color: rgb(0, 247, 255);
+
+}
+
+.Hipervinculo a{
+    text-decoration-line: none;
+}
+
+body{
+
+    background-color: black;
+
+}
+
+.main{
+
+    
+}
+
+.Texto{
+
+    float: left;
+    color: white;
+    width: 45%;
+    align-items: center;
+    padding: 1px;
+    margin: 20px;
+
+}
+
+.Foto{
+
+    align-items: center;
+    float:left;
+    width: 45%;
+    padding: 1px;
+
+}
